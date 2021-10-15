@@ -2,8 +2,9 @@
 
 A new Flutter project.
 
-![Screenshot_1634123943](https://user-images.githubusercontent.com/37434213/137478458-d21abf17-29c0-4e1a-bfef-944d6d8665ec.png {width=40px height=400px})
+![Screenshot_1634123943](https://user-images.githubusercontent.com/37434213/137478458-d21abf17-29c0-4e1a-bfef-944d6d8665ec.png)
 
+<img src="https://github.com/favicon.ico" width="48">
 
 ## Getting Started
 
